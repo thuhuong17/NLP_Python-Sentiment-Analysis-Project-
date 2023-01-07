@@ -1,4 +1,4 @@
-# NLP_Python-Sentiment-Analysis-Project-
+# NLP_Python-Sentiment-Analysis-Project
 Dự án NLP về phân tích cảm xúc
 Bạn có thể thấy được báo cáo về dự án của chúng tôi
 Ngoài ra, còn có slide về phần này
